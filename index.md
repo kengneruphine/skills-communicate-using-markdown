@@ -6,3 +6,8 @@
 ###### thank you
 
 ![My own image](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+let intro = "Hello, world!";
+```
